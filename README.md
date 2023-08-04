@@ -1,4 +1,4 @@
-# CambridgeEnglish
+# Cambridge English
 Here is how I successfully configured the Slate Source Format to bring in scores from the Cambridge English Results Verification Service (RVS) API:
 1. Create your Cambridge English RVS account: "To request a Slate account, please log in to [your institution's] [Cambridge English Results Verification Service](https://cambridge.my.site.com/s/) (RVS) account.  At the top menu bar, look for “API” and follow instructions." 
 2. Refer to the [KB article](https://knowledge.technolutions.com/hc/en-us/articles/360034670112-IELTS-Results-Service-Integration) for setting up the IELTS integration in Slate; this will be _similar_ to that, but definitely not identical 
