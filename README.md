@@ -2,7 +2,7 @@
 Here is how I successfully configured the Slate Source Format to bring in scores from the Cambridge English Results Verification Service (RVS) API:
 1. Create your Cambridge English RVS account: "To request a Slate account, please log in to [your institution's] [Cambridge English Results Verification Service](https://cambridge.my.site.com/s/) (RVS) account.  At the top menu bar, look for “API” and follow instructions." 
 2. Refer to the [KB article](https://knowledge.technolutions.com/hc/en-us/articles/360034670112-IELTS-Results-Service-Integration) for setting up the IELTS integration in Slate; this will be _similar_ to that, but definitely not identical 
-    - For the Import Remote Server URL (Step #5), use https://apis.cambridgeassessment.org.uk/ce/v1/result-verification?startDateTime={{dtstart|date:'s'}}&endDateTime={{dtend|date:'s'}}
+    - For the Import Remote Server URL (Step #5), use `https://apis.cambridgeassessment.org.uk/ce/v1/result-verification?startDateTime={{dtstart|date:'s'}}&endDateTime={{dtend|date:'s'}}`
     - For the HTTP Header, follow the instructions (Step #6)
     - For the Last Remote Server Fetch, this needs to be LESS THAN one year in the past
       - (Thanks to the [Postman app](https://www.postman.com/) for displaying this error that wasn't coming through into Slate: "Message Not processed: Please provide a valid Date Range. Start Date and End Date should within one year ")
