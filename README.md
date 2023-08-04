@@ -33,21 +33,20 @@ Here is how I successfully configured the Slate Source Format to bring in scores
   <f s="CandidateResults[1]/ComponentList[5]/Score" id="Qual1Comp5Score" />
   <f s="CandidateResults[1]/Score" id="Score1" />
   <f s="CandidateResults[1]/CefrLevel" id="CefrLevel1" />
-  <f s="CandidateResults[2]/Qualification" id="Qualification1" />
-  <f s="CandidateResults[2]/Grade" id="Grade" />
-  <f s="CandidateResults[2]/ComponentList[1]/Name" id="Qual1Comp1Name" />
-  <f s="CandidateResults[2]/ComponentList[1]/Score" id="Qual1Comp1Score" />
-  <f s="CandidateResults[2]/ComponentList[2]/Name" id="Qual1Comp2Name" />
-  <f s="CandidateResults[2]/ComponentList[2]/Score" id="Qual1Comp2Score" />
-  <f s="CandidateResults[2]/ComponentList[3]/Name" id="Qual1Comp3Name" />
-  <f s="CandidateResults[2]/ComponentList[3]/Score" id="Qual1Comp3Score" />
-  <f s="CandidateResults[2]/ComponentList[4]/Name" id="Qual1Comp4Name" />
-  <f s="CandidateResults[2]/ComponentList[4]/Score" id="Qual1Comp4Score" />
-  <f s="CandidateResults[2]/ComponentList[5]/Name" id="Qual1Comp5Name" />
-  <f s="CandidateResults[2]/ComponentList[5]/Score" id="Qual1Comp5Score" />
-  <f s="CandidateResults[2]/Score" id="Score1" />
-  <f s="CandidateResults[2]/Score" id="Score1" />
-  <f s="CandidateResults[2]/CefrLevel" id="CefrLevel1" />
+  <f s="CandidateResults[2]/Qualification" id="Qualification2" />
+  <f s="CandidateResults[2]/Grade" id="Grade2" />
+  <f s="CandidateResults[2]/ComponentList[1]/Name" id="Qual2Comp1Name" />
+  <f s="CandidateResults[2]/ComponentList[1]/Score" id="Qual2Comp1Score" />
+  <f s="CandidateResults[2]/ComponentList[2]/Name" id="Qual2Comp2Name" />
+  <f s="CandidateResults[2]/ComponentList[2]/Score" id="Qual2Comp2Score" />
+  <f s="CandidateResults[2]/ComponentList[3]/Name" id="Qual2Comp3Name" />
+  <f s="CandidateResults[2]/ComponentList[3]/Score" id="Qual2Comp3Score" />
+  <f s="CandidateResults[2]/ComponentList[4]/Name" id="Qual2Comp4Name" />
+  <f s="CandidateResults[2]/ComponentList[4]/Score" id="Qual2Comp4Score" />
+  <f s="CandidateResults[2]/ComponentList[5]/Name" id="Qual2Comp5Name" />
+  <f s="CandidateResults[2]/ComponentList[5]/Score" id="Qual2Comp5Score" />
+  <f s="CandidateResults[2]/Score" id="Score2" />
+  <f s="CandidateResults[2]/CefrLevel" id="CefrLevel2" />
 </layout>
 ```
 4. Map values as per usual (Step #21 and #13)
